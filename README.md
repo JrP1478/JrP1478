@@ -1,68 +1,67 @@
 <div align="center">
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+  <h1>¡Hola! 👋 Soy Junior</h1>
+  <img src="https://i.imgur.com/4ASsGiR.png" alt="Banner" width="800">
 </div>
 
-<p align="center">
-<img src="https://i.imgur.com/yourImage.png" alt="Banner personal" width="600">
-</p>
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/tuUsuario?style=social)](https://github.com/tuUsuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tuPerfil/)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-black?style=social&logo=github)](https://tusitio.com)
+### 💡 Sobre mí
+- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad San Ignacio de Loyola.  
+- 💻 Apasionado por el desarrollo de software, análisis de datos y soluciones tecnológicas innovadoras.  
+- 🚀 Actualmente trabajo en proyectos personales como **Aprend-IA**, una plataforma de investigación académica que integra inteligencia artificial y herramientas de productividad.  
+- 🌱 Aprendiendo constantemente sobre tecnologías web modernas, .NET MVC, y análisis de datos.
 
 ---
 
-## Sobre mí
+### 🔧 Habilidades y Tecnologías
 
-👨‍💻 **Desarrollador en formación**, apasionado por la tecnología y la innovación.  
-✨ Actualmente explorando tecnologías como .NET, análisis de datos y desarrollo de aplicaciones web.  
-🚀 Trabajo en proyectos personales como **Aprend-IA**, una plataforma para la gestión de investigaciones académicas.
-
----
-
-## Proyectos Destacados
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Aprend-IA</h3>
 <div align="center">
-<a href="https://github.com/tuUsuario/Aprend-IA" target="_blank"><img src="https://i.imgur.com/yourProjectImage.png" alt="Aprend-IA" width="400"></a>
-<p>
-<a href="https://github.com/tuUsuario/Aprend-IA" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Plataforma virtual para la gestión de investigaciones académicas con herramientas como análisis de similitud, planificador de investigación y un asistente IA.</p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-</td>
-</tr>
-</table>
 
 ---
 
-## Tecnologías que domino
+### 🌟 Proyectos Destacados
 
-- **Lenguajes:** C#, SQL  
-- **Frameworks:** .NET MVC  
-- **Herramientas:** Visual Studio, Git  
-- **Desarrollo web:** HTML, CSS, JavaScript  
+#### 📚 **[Aprend-IA](https://github.com/tuUsuario/Aprend-IA)**  
+Plataforma de investigación académica que integra:  
+- Un asistente IA para guiar a los investigadores.  
+- Herramientas para detectar similitudes en textos.  
+- Módulos para planificar, almacenar y colaborar en proyectos.  
+
+<div align="center">
+  <img src="https://i.imgur.com/E7p6RWh.png" alt="Aprend-IA" width="500">
+</div>
+
+#### 🔍 **Análisis de Datos con SQL**  
+- Diseño de consultas avanzadas para bases de datos.  
+- Proyectos que destacan por su optimización y generación de reportes útiles para la toma de decisiones.  
+
+#### 💻 **Portafolio Web Personal**  
+- Página creada desde cero usando HTML, CSS y JavaScript para mostrar mi experiencia y proyectos.  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Estadísticas de GitHub
 
-<p align="center">
-<a href="https://github.com/tuUsuario">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=7&theme=radical">
+</div>
 
 ---
 
 ### 📫 Contáctame
 
-- 📧 **Email:** [tuEmail@example.com]  
-- 💼 **LinkedIn:** [linkedin.com/in/tuPerfil](https://www.linkedin.com/in/tuPerfil/)  
-- 🌐 **Portafolio:** [tusitio.com](https://tusitio.com)
+<div align="center">
+  <a href="mailto:tuEmail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tuPerfil/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tuPortafolio.com"><img src="https://img.shields.io/badge/-Portafolio-black?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
